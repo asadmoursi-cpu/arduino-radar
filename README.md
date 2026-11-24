@@ -31,7 +31,9 @@ Built from Nurlan Quluzade's tutorial. Code and notes are in [`v1-single-radar/`
 
 ### Demo video
 
-[Watch the demo video (57 s)](media/demo-v1-single-radar.mp4)
+<video src="https://github.com/user-attachments/assets/ec14cd08-14e6-439f-b61d-ce2d0009dcb7" controls width="360"></video>
+
+Video not showing? [Open the file](media/demo-v1-single-radar.mp4) (full quality, 57 s).
 
 This video shows the **v1 single radar** running. A v2 demo is still to come.
 
